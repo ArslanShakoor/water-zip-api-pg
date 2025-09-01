@@ -1,0 +1,25 @@
+# envs & OS
+.venv/
+.DS_Store
+
+# caches & downloads
+zipmap_work/
+zcta/
+*.zip
+*.7z
+*.tar.gz
+
+# heavy geodata
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.gpkg
+*.sqlite
+*.geojson
+*.tif
+
+# keep these data files in repo
+!data/zip_to_pws_all15.csv
+!data/topN_contaminants_ppb.csv
