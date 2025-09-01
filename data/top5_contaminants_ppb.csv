@@ -1,0 +1,15 @@
+pws,contaminant,value_ppb,basis,year,source_url
+Baltimore City DPW,Total Trihalomethanes (TTHM),72.0,City distribution LRAA,2024,local:/mnt/data/baltimore-2.png
+Baltimore City DPW,Haloacetic Acids (HAA5),54.0,City distribution LRAA,2024,local:/mnt/data/baltimore-2.png
+Baltimore City DPW,Lead (90th percentile),2.74,90% of tests less than (ppb),2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,Copper (90th percentile),112.0,90% of tests less than (ppb),2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,Nitrate (as Nitrogen),1700.0,Highest plant result 1.70 mg/L → ppb,2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,Fluoride,1170.0,Highest plant result 1.17 mg/L → ppb,2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,Chlorine (as Cl2),1240.0,Highest plant result 1.24 mg/L → ppb,2024,local:/mnt/data/baltimore-1.png
+Miami-Dade,Total Trihalomethanes (TTHM),51.0,LRAA,2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+Miami-Dade,Haloacetic Acids (HAA5),44.0,LRAA,2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+Miami-Dade,Chloramines (as Cl2),2700.0,avg 2.7 mg/L → ppb,2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+Miami-Dade,Fluoride,700.0,avg 0.7 mg/L → ppb,2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+Chicago,Total Trihalomethanes (TTHM),32.6,Distribution LRAA,2023,https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports/2023_water_quality_data.html
+Chicago,Haloacetic Acids (HAA5),16.4,Distribution LRAA,2023,https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports/2023_water_quality_data.html
+Chicago,Lead (90th percentile),7.2,90th percentile at-the-tap,2023,https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports/2023_water_quality_data.html

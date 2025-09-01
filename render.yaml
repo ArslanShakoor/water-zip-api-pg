@@ -1,0 +1,17 @@
+# render.yaml
+databases:
+  - name: water-db
+    plan: free          # later: change to basic-1gb
+    postgresMajorVersion: "16"
+
+services:
+  - type: web
+    name: water-zip-api
+    runtime: docker
+    plan: free          # later: change to starter
+    healthCheckPath: /health
+    envVars:
+      - key: DATABASE_URL_SYNC
+        fromDatabase:
+          name: water-db
+          property: connectionString

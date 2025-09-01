@@ -1,0 +1,154 @@
+pws,contaminant,value_ppb,basis,year,source_url
+Chicago,Total Trihalomethanes (TTHM),32.6,Distribution System LRAA,2023,https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports/2023_water_quality_data.html
+Chicago,Haloacetic Acids (HAA5),16.4,Distribution System LRAA,2023,https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports/2023_water_quality_data.html
+Chicago,Chlorine (as Cl2),1000,Annual Avg ppm→ppb (1.00 ppm),2023,https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports/2023_water_quality_data.html
+Chicago,Lead,7.2,90th percentile at taps,2023,https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports/2023_water_quality_data.html
+Chicago,Copper,79,90th percentile at taps (0.079 ppm),2023,https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports/2023_water_quality_data.html
+Chicago,Fluoride,740,Annual Avg ppm→ppb (0.74 ppm),2023,https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports/2023_water_quality_data.html
+Chicago,Nitrate (as Nitrogen),330,Annual Avg ppm→ppb (0.33 ppm as N),2023,https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports/2023_water_quality_data.html
+Chicago,Barium,19.5,Annual Avg ppm→ppb (0.0195 ppm),2023,https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports/2023_water_quality_data.html
+Chicago,Sulfate,27800,Annual Avg ppm→ppb (27.8 ppm),2023,https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports/2023_water_quality_data.html
+Chicago,Sodium,8710,Annual Avg ppm→ppb (8.71 ppm),2023,https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports/2023_water_quality_data.html
+Los Angeles (LADWP),Total Trihalomethanes (TTHM),34.4,HLRAA (µg/L),2024,https://m.ladwp.com/cs/groups/ladwp/documents/document/mta0/mdiz/~edisp/laws04c034669.pdf
+Los Angeles (LADWP),Haloacetic Acids (HAA5),14.9,LRAA (µg/L),2024,https://m.ladwp.com/cs/groups/ladwp/documents/document/mta0/mdiz/~edisp/laws04c034669.pdf
+Los Angeles (LADWP),Total Chlorine (residual),1900,Distribution System Avg mg/L→ppb (1.9 mg/L),2024,https://m.ladwp.com/cs/groups/ladwp/documents/document/mta0/mdiz/~edisp/laws04c034669.pdf
+Los Angeles (LADWP),Fluoride,700,Plant effluent Avg mg/L→ppb (0.7 mg/L),2024,https://m.ladwp.com/cs/groups/ladwp/documents/document/mta0/mdiz/~edisp/laws04c034669.pdf
+Los Angeles (LADWP),Lead,5,90th percentile at taps (reported as <5 µg/L),2024,https://m.ladwp.com/cs/groups/ladwp/documents/document/mta0/mdiz/~edisp/laws04c034669.pdf
+Los Angeles (LADWP),Copper,529,90th percentile at taps (µg/L),2024,https://m.ladwp.com/cs/groups/ladwp/documents/document/mta0/mdiz/~edisp/laws04c034669.pdf
+Los Angeles (LADWP),Sodium,42600,"Avg mg/L→ppb (42.6 mg/L, LAAFP)",2024,https://m.ladwp.com/cs/groups/ladwp/documents/document/mta0/mdiz/~edisp/laws04c034669.pdf
+Los Angeles (LADWP),Sulfate,48000,"Avg mg/L→ppb (48 mg/L, LAAFP)",2024,https://m.ladwp.com/cs/groups/ladwp/documents/document/mta0/mdiz/~edisp/laws04c034669.pdf
+Los Angeles (LADWP),Chloride,34300,"Avg mg/L→ppb (34.3 mg/L, LAAFP)",2024,https://m.ladwp.com/cs/groups/ladwp/documents/document/mta0/mdiz/~edisp/laws04c034669.pdf
+Los Angeles (LADWP),Total Dissolved Solids (TDS),252000,"Avg mg/L→ppb (252 mg/L, LAAFP)",2024,https://m.ladwp.com/cs/groups/ladwp/documents/document/mta0/mdiz/~edisp/laws04c034669.pdf
+Miami-Dade,Total Trihalomethanes (TTHM),51,Main System LRAA (ppb),2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+Miami-Dade,Haloacetic Acids (HAA5),44,Main System LRAA (ppb),2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+Miami-Dade,Chloramines (as Cl2),2700,Main System MRDL running avg ppm→ppb (2.7 ppm),2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+Miami-Dade,Antimony,0.1,Detected (ppb),2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+Miami-Dade,Arsenic,1,Detected (ppb),2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+Miami-Dade,Barium,8,Detected ppm→ppb (0.008 ppm),2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+Miami-Dade,Beryllium,0.2,Detected (ppb),2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+Miami-Dade,Cadmium,0.4,Detected (ppb),2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+Miami-Dade,Chromium,2,Detected (ppb),2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+Miami-Dade,Fluoride,700,Detected ppm→ppb (0.7 ppm),2024,https://www.miamidade.gov/water/library/reports/water-quality-2024.pdf
+MWRA (Full Service),Total Trihalomethanes (TTHM),26.3,Average (ppb),2024,https://www.mwra.com/node/8441
+MWRA (Full Service),Haloacetic Acids (HAA5),22.9,Average (ppb),2024,https://www.mwra.com/node/8441
+MWRA (Full Service),Monochloramine (as Cl2),1940,Average mg/L → ppb (1.94 mg/L),2024,https://www.mwra.com/node/8441
+MWRA (Full Service),Fluoride,700,Average mg/L → ppb (0.7 mg/L),2024,https://www.mwra.com/node/8441
+MWRA (Full Service),Nitrate,620,Max result mg/L → ppb (0.62 mg/L)^,2024,https://www.mwra.com/node/8441
+MWRA (Full Service),Barium,8,Average mg/L → ppb (0.008 mg/L),2024,https://www.mwra.com/node/8441
+MWRA (Full Service),Sodium,36000,Highest level mg/L → ppb (36 mg/L),2024,https://www.mwra.com/node/8441
+MWRA (Full Service),Bromate,0,RAA at CWTP finished water tap (µg/L → ppb),2024,https://www.mwra.com/media/file/wq-update-012025
+MWRA (Full Service),"Lead (90th percentile, Deer Island LCR)",0.801,90th percentile at taps (ppb),2024,https://www.mwra.com/node/8441
+MWRA (Full Service),"Copper (90th percentile, Deer Island LCR)",133,90th percentile at taps (ppb),2024,https://www.mwra.com/node/8441
+New York City (DEP),Aluminum,18,Average µg/L → ppb (18 µg/L),2024,https://a860-gpp.nyc.gov/downloads/n870zv84z?locale=en
+New York City (DEP),Barium,10,Average mg/L → ppb (0.01 mg/L),2024,https://a860-gpp.nyc.gov/downloads/n870zv84z?locale=en
+New York City (DEP),Chloride,15000,Average mg/L → ppb (15 mg/L),2024,https://a860-gpp.nyc.gov/downloads/n870zv84z?locale=en
+New York City (DEP),"Chlorine Residual, Free (as Cl2)",500,Average mg/L → ppb (0.5 mg/L),2024,https://a860-gpp.nyc.gov/downloads/n870zv84z?locale=en
+New York City (DEP),Copper,7,Average mg/L → ppb (0.007 mg/L),2024,https://a860-gpp.nyc.gov/downloads/n870zv84z?locale=en
+New York City (DEP),Fluoride,700,Average mg/L → ppb (0.7 mg/L),2024,https://a860-gpp.nyc.gov/downloads/n870zv84z?locale=en
+New York City (DEP),Iron,30,Average µg/L → ppb (30 µg/L),2024,https://a860-gpp.nyc.gov/downloads/n870zv84z?locale=en
+New York City (DEP),Haloacetic Acids (HAA5),48,Average (µg/L → ppb),2024,https://a860-gpp.nyc.gov/downloads/n870zv84z?locale=en
+New York City (DEP),Total Trihalomethanes (TTHM),48,Average (µg/L → ppb),2024,https://a860-gpp.nyc.gov/downloads/n870zv84z?locale=en
+New York City (DEP),Total Organic Halogen (TOX),174,Average (µg/L → ppb),2024,https://a860-gpp.nyc.gov/downloads/n870zv84z?locale=en
+Houston,Total Trihalomethanes (TTHM),45,Highest LRAA,2024,https://www.houstonpublicworks.org/sites/g/files/nwywnm456/files/doc/003_2024_houston_water_quality_report.pdf
+Houston,Haloacetic Acids (HAA5),39,Highest LRAA,2024,https://www.houstonpublicworks.org/sites/g/files/nwywnm456/files/doc/003_2024_houston_water_quality_report.pdf
+Houston,Chloramines (as Cl2),3000,Distribution avg 3.0 ppm → ppb,2024,https://www.houstonpublicworks.org/sites/g/files/nwywnm456/files/doc/003_2024_houston_water_quality_report.pdf
+Houston,Nitrate (as Nitrogen),390,Distribution avg 0.39 ppm → ppb,2024,https://www.houstonpublicworks.org/sites/g/files/nwywnm456/files/doc/003_2024_houston_water_quality_report.pdf
+Houston,Fluoride,210,Plant avg 0.21 ppm → ppb,2024,https://www.houstonpublicworks.org/sites/g/files/nwywnm456/files/doc/003_2024_houston_water_quality_report.pdf
+Houston,Arsenic,1.8,Plant avg 1.8 ppb,2024,https://www.houstonpublicworks.org/sites/g/files/nwywnm456/files/doc/003_2024_houston_water_quality_report.pdf
+Houston,Barium,120,Plant avg 0.12 ppm → ppb,2024,https://www.houstonpublicworks.org/sites/g/files/nwywnm456/files/doc/003_2024_houston_water_quality_report.pdf
+Houston,Cyanide,52.5,Plant avg 52.5 ppb,2024,https://www.houstonpublicworks.org/sites/g/files/nwywnm456/files/doc/003_2024_houston_water_quality_report.pdf
+Houston,Lead (90th percentile),4.4,Customer tap 90% below 4.4 ppb,2024,https://www.houstonpublicworks.org/sites/g/files/nwywnm456/files/doc/003_2024_houston_water_quality_report.pdf
+Houston,Copper (90th percentile),250,Customer tap 90% below 0.25 ppm → ppb,2024,https://www.houstonpublicworks.org/sites/g/files/nwywnm456/files/doc/003_2024_houston_water_quality_report.pdf
+San Antonio (SAWS),Total Trihalomethanes (TTHM),42.2,Highest level detected (ppb),2023,https://www.saws.org/wp-content/uploads/2024/06/258508.0150018_SAWS_MainV2.pdf
+San Antonio (SAWS),Haloacetic Acids (HAA5),7.68,Highest level detected (ppb),2023,https://www.saws.org/wp-content/uploads/2024/06/258508.0150018_SAWS_MainV2.pdf
+San Antonio (SAWS),Chlorine residual (free),1450,Distribution avg 1.45 ppm → ppb,2023,https://www.saws.org/wp-content/uploads/2024/06/258508.0150018_SAWS_MainV2.pdf
+San Antonio (SAWS),Barium,91.8,Plant highest detected 0.0918 ppm → ppb,2023,https://www.saws.org/wp-content/uploads/2024/06/258508.0150018_SAWS_MainV2.pdf
+San Antonio (SAWS),Fluoride,3210,Plant highest detected 3.21 ppm → ppb,2023,https://www.saws.org/wp-content/uploads/2024/06/258508.0150018_SAWS_MainV2.pdf
+San Antonio (SAWS),Nitrate (as Nitrogen),2510,Plant highest detected 2.51 ppm → ppb,2023,https://www.saws.org/wp-content/uploads/2024/06/258508.0150018_SAWS_MainV2.pdf
+San Antonio (SAWS),Selenium,4.2,Plant highest detected (ppb),2023,https://www.saws.org/wp-content/uploads/2024/06/258508.0150018_SAWS_MainV2.pdf
+San Antonio (SAWS),Lithium (UCMR5),12.82,Average (ppb),2023,https://www.saws.org/wp-content/uploads/2024/06/258508.0150018_SAWS_MainV2.pdf
+San Antonio (SAWS),Lead (90th percentile),2.25,Customer taps 90th percentile (ppb),2021,https://www.saws.org/wp-content/uploads/2024/06/258508.0150018_SAWS_MainV2.pdf
+San Antonio (SAWS),Copper (90th percentile),206,Customer taps 90th percentile 0.206 ppm → ppb,2021,https://www.saws.org/wp-content/uploads/2024/06/258508.0150018_SAWS_MainV2.pdf
+WSSC,Residual Chlorine (as Cl2),1400,Distribution system level found 1.4 ppm → ppb,2024,https://www.wsscwater.com/sites/default/files/2025-03/WQR%202024.pdf
+WSSC,Haloacetic Acids (HAA5),49,Locational running annual average (LRAA),2024,https://www.wsscwater.com/sites/default/files/2025-03/WQR%202024.pdf
+WSSC,Total Trihalomethanes (TTHM),66,Locational running annual average (LRAA),2024,https://www.wsscwater.com/sites/default/files/2025-03/WQR%202024.pdf
+WSSC,Barium,30,Tap level found 0.03 mg/L → ppb,2024,https://www.wsscwater.com/sites/default/files/2025-03/WQR%202024.pdf
+WSSC,Fluoride,700,Tap level found 0.7 mg/L → ppb,2024,https://www.wsscwater.com/sites/default/files/2025-03/WQR%202024.pdf
+WSSC,Nitrate (as Nitrogen),1400,Tap level found 1.4 mg/L → ppb,2024,https://www.wsscwater.com/sites/default/files/2025-03/WQR%202024.pdf
+WSSC,Copper (90th percentile),120,Customer tap 90th percentile 0.12 mg/L → ppb,2024,https://www.wsscwater.com/sites/default/files/2025-03/WQR%202024.pdf
+WSSC,Lead (90th percentile),2,Customer tap 90th percentile <2.0 μg/L (recorded as 2.0),2024,https://www.wsscwater.com/sites/default/files/2025-03/WQR%202024.pdf
+WSSC,Sodium,13000,Detected unregulated: 13 mg/L → ppb,2024,https://www.wsscwater.com/sites/default/files/2025-03/WQR%202024.pdf
+WSSC,PFBS (UCMR5),0.0026,Potomac tap level found 2.6 ng/L → ppb,2024,https://www.wsscwater.com/sites/default/files/2025-03/WQR%202024.pdf
+Phoenix,Chlorine (free) RAA,830,Highest running annual average 0.83 ppm → ppb,2024,https://phoenix.gov/waterqualityreport
+Phoenix,Total Trihalomethanes (TTHM),60,Highest LRAA,2024,https://phoenix.gov/waterqualityreport
+Phoenix,Haloacetic Acids (HAA),17,Highest LRAA,2024,https://phoenix.gov/waterqualityreport
+Phoenix,Nitrate (as Nitrogen),4300,Highest level detected 4.3 ppm → ppb,2024,https://phoenix.gov/waterqualityreport
+Phoenix,Arsenic,6,Highest level detected (ppb),2024,https://phoenix.gov/waterqualityreport
+Phoenix,Barium,133,Sample results range max 0.133 ppm → ppb,2024,https://phoenix.gov/waterqualityreport
+Phoenix,Chromium,56,Sample results range max (ppb),2024,https://phoenix.gov/waterqualityreport
+Phoenix,Fluoride,800,Sample results range max 0.8 ppm → ppb,2024,https://phoenix.gov/waterqualityreport
+Phoenix,Sodium,98000,Aesthetic analysis range 98–198 mg/L (min used) → ppb,2024,https://phoenix.gov/waterqualityreport
+Phoenix,Total Dissolved Solids (TDS),560000,Aesthetic analysis range 560–686 mg/L (min used) → ppb,2024,https://phoenix.gov/waterqualityreport
+Philadelphia,Total Trihalomethanes (TTHM),51,System-wide running annual average,2024,https://water.phila.gov/wp-content/uploads/files/2024-pwd-water-quality-report.pdf
+Philadelphia,Chlorine residual (WTPs),2240,Baxter WTP lowest level detected 2.24 ppm → ppb,2024,https://water.phila.gov/wp-content/uploads/files/2024-pwd-water-quality-report.pdf
+Philadelphia,Lead (90th percentile),2,2022 round: 90% of homes below 2.0 ppb,2024,https://water.phila.gov/wp-content/uploads/files/2024-pwd-water-quality-report.pdf
+Philadelphia,Copper (90th percentile),219,2022 round: 90% of homes below 0.219 ppm → ppb,2024,https://water.phila.gov/wp-content/uploads/files/2024-pwd-water-quality-report.pdf
+Philadelphia,Barium,46,Highest result 0.046 ppm → ppb,2024,https://water.phila.gov/wp-content/uploads/files/2024-pwd-water-quality-report.pdf
+Philadelphia,Fluoride,624,Highest result 0.624 ppm → ppb,2024,https://water.phila.gov/wp-content/uploads/files/2024-pwd-water-quality-report.pdf
+Philadelphia,Nitrate (as Nitrogen),4520,Highest result 4.52 ppm → ppb,2024,https://water.phila.gov/wp-content/uploads/files/2024-pwd-water-quality-report.pdf
+Philadelphia,Chloride,124000,Secondary MCLs: Baxter one-year range max 124 ppm → ppb,2024,https://water.phila.gov/wp-content/uploads/files/2024-pwd-water-quality-report.pdf
+Philadelphia,Sulfate,62000,Secondary MCLs: Belmont/Queen Lane one-year range max 62 ppm → ppb,2024,https://water.phila.gov/wp-content/uploads/files/2024-pwd-water-quality-report.pdf
+Philadelphia,Total Dissolved Solids (TDS),471000,Secondary MCLs: Queen Lane one-year range max 471 ppm → ppb,2024,https://water.phila.gov/wp-content/uploads/files/2024-pwd-water-quality-report.pdf
+Las Vegas Valley Water District (LVVWD),Total Trihalomethanes (TTHM),66,Highest LRAA (distribution system),2024,https://www.lvvwd.com/assets/pdf/water-quality-report-las-vegas-valley-archive.pdf
+Las Vegas Valley Water District (LVVWD),Haloacetic Acids (HAA5),35,Highest LRAA (distribution system),2024,https://www.lvvwd.com/assets/pdf/water-quality-report-las-vegas-valley-archive.pdf
+Las Vegas Valley Water District (LVVWD),"Chlorine (free), residual",1000,Annual average 1.0 ppm → ppb,2024,https://www.lvvwd.com/assets/pdf/water-quality-report-las-vegas-valley-archive.pdf
+Las Vegas Valley Water District (LVVWD),Fluoride,650,Distribution avg 0.65 ppm → ppb,2024,https://www.lvvwd.com/assets/pdf/water-quality-report-las-vegas-valley-archive.pdf
+Las Vegas Valley Water District (LVVWD),Nitrate (as N),580,Entry point avg 0.58 ppm (RMWTF) → ppb,2024,https://www.lvvwd.com/assets/pdf/water-quality-report-las-vegas-valley-archive.pdf
+Las Vegas Valley Water District (LVVWD),Arsenic,2,Entry point avg (WTPs),2024,https://www.lvvwd.com/assets/pdf/water-quality-report-las-vegas-valley-archive.pdf
+Las Vegas Valley Water District (LVVWD),Barium,200,Entry point avg 0.2 ppm → ppb,2024,https://www.lvvwd.com/assets/pdf/water-quality-report-las-vegas-valley-archive.pdf
+Las Vegas Valley Water District (LVVWD),Bromate,5,Avg at treatment plants,2024,https://www.lvvwd.com/assets/pdf/water-quality-report-las-vegas-valley-archive.pdf
+Las Vegas Valley Water District (LVVWD),Lead,2.6,90th percentile at taps,2024,https://www.lvvwd.com/assets/pdf/water-quality-report-las-vegas-valley-archive.pdf
+Las Vegas Valley Water District (LVVWD),Copper,850,90th percentile 0.85 ppm → ppb,2024,https://www.lvvwd.com/assets/pdf/water-quality-report-las-vegas-valley-archive.pdf
+EBMUD (East Bay MUD),Total Trihalomethanes (TTHM),58,System average (distribution),2024,https://www.ebmud.com/download_file/force/45624/685?AWQR-2024-WEB2.pdf=
+EBMUD (East Bay MUD),Haloacetic Acids (HAA5),49,System average (distribution),2024,https://www.ebmud.com/download_file/force/45624/685?AWQR-2024-WEB2.pdf=
+EBMUD (East Bay MUD),Chloramine residual (as Cl2),2500,Highest RAA 2.5 ppm → ppb,2024,https://www.ebmud.com/download_file/force/45624/685?AWQR-2024-WEB2.pdf=
+EBMUD (East Bay MUD),Bromate,1.3,Highest RAA (treatment plants),2024,https://www.ebmud.com/download_file/force/45624/685?AWQR-2024-WEB2.pdf=
+EBMUD (East Bay MUD),Fluoride,700,System average 0.7 ppm → ppb,2024,https://www.ebmud.com/download_file/force/45624/685?AWQR-2024-WEB2.pdf=
+EBMUD (East Bay MUD),Chromium‑6 (Hexavalent Chromium),0.2,Range max at WTPs,2024,https://www.ebmud.com/download_file/force/45624/685?AWQR-2024-WEB2.pdf=
+EBMUD (East Bay MUD),Chloride,6000,System average 6 ppm → ppb,2024,https://www.ebmud.com/download_file/force/45624/685?AWQR-2024-WEB2.pdf=
+EBMUD (East Bay MUD),Sulfate,7000,System average 7 ppm → ppb,2024,https://www.ebmud.com/download_file/force/45624/685?AWQR-2024-WEB2.pdf=
+EBMUD (East Bay MUD),Total Dissolved Solids (TDS),59000,System average 59 ppm → ppb,2024,https://www.ebmud.com/download_file/force/45624/685?AWQR-2024-WEB2.pdf=
+EBMUD (East Bay MUD),Lead,13.3,Range max at taps,2024,https://www.ebmud.com/download_file/force/45624/685?AWQR-2024-WEB2.pdf=
+San Diego (City of),Total Trihalomethanes (TTHM),49,Highest LRAA (distribution),2024,https://www.sandiego.gov/sites/default/files/2025-06/pud-annual-drinking-water-quality-report-2024.pdf
+San Diego (City of),Haloacetic Acids (HAA5),15,Highest LRAA (distribution),2024,https://www.sandiego.gov/sites/default/files/2025-06/pud-annual-drinking-water-quality-report-2024.pdf
+San Diego (City of),Chloramine residual (as Cl2),1730,Distribution avg 1.73 ppm → ppb,2024,https://www.sandiego.gov/sites/default/files/2025-06/pud-annual-drinking-water-quality-report-2024.pdf
+San Diego (City of),Bromate,9.4,Max single sample at WTPs,2024,https://www.sandiego.gov/sites/default/files/2025-06/pud-annual-drinking-water-quality-report-2024.pdf
+San Diego (City of),Fluoride,700,Treated water average 0.7 ppm → ppb,2024,https://www.sandiego.gov/sites/default/files/2025-06/pud-annual-drinking-water-quality-report-2024.pdf
+San Diego (City of),Lead,6,90th percentile at taps,2024,https://www.sandiego.gov/sites/default/files/2025-06/pud-annual-drinking-water-quality-report-2024.pdf
+San Diego (City of),Copper,130,90th percentile 0.13 ppm → ppb,2024,https://www.sandiego.gov/sites/default/files/2025-06/pud-annual-drinking-water-quality-report-2024.pdf
+San Diego (City of),Total Organic Carbon (TOC),2400,Distribution avg ~2.4 ppm → ppb,2024,https://www.sandiego.gov/sites/default/files/2025-06/pud-annual-drinking-water-quality-report-2024.pdf
+San Diego (City of),Nitrate (as N),900,Range max across WTPs (0.9 ppm) → ppb,2024,https://www.sandiego.gov/sites/default/files/2025-06/pud-annual-drinking-water-quality-report-2024.pdf
+San Diego (City of),Barium,40,Avg 0.04 ppm → ppb,2024,https://www.sandiego.gov/sites/default/files/2025-06/pud-annual-drinking-water-quality-report-2024.pdf
+Dallas Water Utilities (DWU),Total Trihalomethanes (TTHM),19.1,Highest LRAA (distribution),2024,https://dallascityhall.com/departments/waterutilities/DCH%20Documents/pdf/water-quality-report.pdf
+Dallas Water Utilities (DWU),Haloacetic Acids (HAA5),17,Highest LRAA (distribution),2024,https://dallascityhall.com/departments/waterutilities/DCH%20Documents/pdf/water-quality-report.pdf
+Dallas Water Utilities (DWU),Total Chlorine residual (as Cl2),2970,Distribution avg 2.97 ppm → ppb,2024,https://dallascityhall.com/departments/waterutilities/DCH%20Documents/pdf/water-quality-report.pdf
+Dallas Water Utilities (DWU),Fluoride,629,Average 0.629 ppm → ppb,2024,https://dallascityhall.com/departments/waterutilities/DCH%20Documents/pdf/water-quality-report.pdf
+Dallas Water Utilities (DWU),Nitrate (as N),834,Average 0.834 ppm → ppb,2024,https://dallascityhall.com/departments/waterutilities/DCH%20Documents/pdf/water-quality-report.pdf
+Dallas Water Utilities (DWU),Nitrite (as N),6,Average 0.006 ppm → ppb,2024,https://dallascityhall.com/departments/waterutilities/DCH%20Documents/pdf/water-quality-report.pdf
+Dallas Water Utilities (DWU),Barium,40,Average 0.040 ppm → ppb,2024,https://dallascityhall.com/departments/waterutilities/DCH%20Documents/pdf/water-quality-report.pdf
+Dallas Water Utilities (DWU),Aluminum,54,Average in ppb,2024,https://dallascityhall.com/departments/waterutilities/DCH%20Documents/pdf/water-quality-report.pdf
+Dallas Water Utilities (DWU),Bromate,1.12,Running annual average,2024,https://dallascityhall.com/departments/waterutilities/DCH%20Documents/pdf/water-quality-report.pdf
+Dallas Water Utilities (DWU),Total Organic Carbon (TOC),3270,Average 3.27 ppm → ppb,2024,https://dallascityhall.com/departments/waterutilities/DCH%20Documents/pdf/water-quality-report.pdf
+Baltimore City DPW,Lead (90th percentile),2.74,90% of tests less than (ppb); range <2–7.09 ppb,2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,Copper (90th percentile),112,90% of tests less than (ppb); range 14.4–402 ppb,2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,Barium,39.5,Highest plant result 0.0395 mg/L → ppb (Montebello),2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,Chlorine (as Cl2),1240,Highest plant result 1.24 mg/L → ppb (Montebello),2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,Fluoride,1170,Highest plant result 1.17 mg/L → ppb (Montebello),2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,Nitrate (as Nitrogen),1700,Highest plant result 1.70 mg/L → ppb (Montebello),2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,Antimony,2.87,Highest plant result (ppb) (Montebello),2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,PFOA,0.00217,Highest level detected 2.17 ppt → ppb (Ashburton),2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,PFOS,0.00243,Highest level detected 2.43 ppt → ppb (Ashburton),2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,PFBS,0.00164,Highest level detected 1.64 ppt → ppb (Ashburton),2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,PFHxS,0.00045,Highest level detected 0.45 ppt → ppb (Ashburton),2024,local:/mnt/data/baltimore-1.png
+Baltimore City DPW,Total Trihalomethanes (TTHM),72,City distribution Locational Running Annual Average (ppb),2024,local:/mnt/data/baltimore-2.png
+Baltimore City DPW,Haloacetic Acids (HAA5),54,City distribution Locational Running Annual Average (ppb),2024,local:/mnt/data/baltimore-2.png
